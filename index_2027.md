@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Eric Izekor Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eric Izekor
+801-319-3112 | ize19001@byui.edu | https://www.linkedin.com/in/eric-izekor-14a206181/
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,12 +15,12 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2023`
+__Brigham Young University-Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -28,57 +28,39 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Aug 2022 - Dec 2022`
+__Family Search__, Lehi, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Designed a program that automatically takes the Team’s stats reports and update a google spreadsheet with the stats.
+- Design a UI to interact with Kafka topic offsets and change it to earliest, latest, or a custom date.
+- Design a UI to send Kafka message from one topic to another
+- Designed a UI that tracks harvesters that search historical records with wildcard.
 
-### Data Science Lead
+### Tutor
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Sept 2020 - July 2022`
+__Object-Oriented/Data Structure__, Tutor
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Help students with Objected-Oriented Programing Assignments.
+- Developed good communication and teaching skills through communication and teaching students with different       background and in different part of the world.
+- Emphasize logical and critical thinking by leading one-on-one sessions with students.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Embedded System
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`April 2022`
+__Home Security System__
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Designed a home security alarm system using MSP432 microcontroller.
+- Learned how to use MSP432 I/O ports with switches and motion sensors
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2016-2018`
+__Full-Time Missionary__, Liberia Monrovia
+- Prepared and taught weekly lessons in meetings which helped fellow volunteers improve.
+- Developed an attitude of being punctual, disciplined and prepared for each meeting.
 
 
 <!-- ### Footer
